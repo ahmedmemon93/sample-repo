@@ -5,3 +5,4 @@ this is 3rdline in feature/f3 branch
 this is 7th line added in feature/3 branch
 test9
 test 10 after branch commits
+test 11 before commit in brach this is master 
