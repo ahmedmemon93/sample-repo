@@ -6,3 +6,4 @@ this is 7th line added in feature/3 branch
 test9
 test 10 after branch commits
 test 11 before commit in brach this is master 
+test 12 after commit in branch this is mater commit 2`  
